@@ -3,6 +3,6 @@ This project aims to explore and evaluate different Transformer-based architectu
 
 For more information on project background, dataset sources, and detailed analysis, refer to:
 
-Project Plan (Project_Plan_for_Directed_Studies_Fall_2024.pdf)
+  - Project Plan (Project_Plan_for_Directed_Studies_Fall_2024.pdf)
 
-Project Report (Project_Report_Fall_2024.pdf)
+  - Project Report (Project_Report_Fall_2024.pdf)
